@@ -1,0 +1,26 @@
+.Template {
+    padding-top: 20px;
+    max-height: 100vh;
+}
+
+.title1 {
+    width: 90vw;
+    margin-left: auto;
+    margin-right: auto;
+
+    padding-bottom: 15px;
+    font-size: 2rem;
+    font-weight: bold;
+    color: #5e6666;
+}
+
+.title2 {
+    width: 90vw;
+    margin-left: auto;
+    margin-right: auto;
+
+    padding-bottom: 20px;
+    font-size: 1.1rem;
+    font-weight: bold;
+    color: #60cc7b;
+}
